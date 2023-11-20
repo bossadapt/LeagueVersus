@@ -1,0 +1,19 @@
+{
+  "name": "leagueversus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fightmegg/riot-api": "^0.0.17",
+    "discord.js": "^14.13.0",
+    "dotenv": "^16.3.1",
+    "mysql2": "^3.6.3"
+  }
+}
